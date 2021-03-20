@@ -1,5 +1,5 @@
 # masksemi
-Code for converting a label list in a scikit-like semi-supervised label list.
+Code for converting a list of labels in a scikit-like semi-supervised labels.
 
 ## Getting Started
 #### Dependencies
@@ -13,6 +13,10 @@ pip install numpy
 Clone this repo to your local machine using:
 ```
 git clone https://github.com/caiocarneloz/masksemi.git
+```
+Or install it using pip:
+```
+pip install masksemi
 ```
 
 #### Features
