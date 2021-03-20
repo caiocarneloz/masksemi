@@ -1,7 +1,7 @@
 import numpy as np
 import random
 
-def maskData(true_labels, percentage):
+def mask(true_labels, percentage):
 
     mask = np.ones((1,len(true_labels)),dtype=bool)[0]
     labels = true_labels.copy()
